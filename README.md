@@ -17,7 +17,7 @@
 ### 🚀 Tech Stack & Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,javascript,css,tailwind,postgresql,linux,mongodb,figma,vscode,postman,api" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,javascript,css,tailwind,postgresql,linux,mongodb,figma,vscode,postman,api,c++,python" />
 </p>
 
 <p align="center">
