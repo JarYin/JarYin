@@ -20,10 +20,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs,angular,react,vue,nodejs,express,typescript,javascript,css,tailwind,postgresql,mongodb,figma,postman,python,c#,prisma," />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=zustand" />
-</p>
-
 ---
 
 ### ⚡ Fun Fact:
