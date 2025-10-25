@@ -36,15 +36,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JarYin&theme=radical" alt="GitHub Streak" />
 </p>
-
+---
 ## 🧑‍🤝‍🧑 Contributors
 
 Thanks to all the wonderful people who contributed to this project 💖
 
-<a href="https://github.com/JarYin/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=JarYin" />
+<a href="https://github.com/JarYin/portfolio/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=JarYin/portfolio" />
 </a>
-
----
 
 ### ✨ Keep Coding & Stay Curious!
