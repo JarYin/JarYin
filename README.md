@@ -26,18 +26,6 @@
 > Learning never ends — I believe **coding is an art** mixed with **logic and creativity**!
 
 ---
-
-### 📊 Github Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JarYin&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JarYin&theme=radical" alt="GitHub Streak" />
-</p>
----
-
 ## 🧩 My GitHub Activity
 
 <p align="center">
