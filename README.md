@@ -37,8 +37,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JarYin&theme=radical" alt="GitHub Streak" />
 </p>
 ---
-### 📈 Contribution Graph
 
-![JarYin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JarYin&bg_color=0d1117&color=36bcf7&line=00e676&point=ffffff&area=true&hide_border=true)
+### 📈 Contribution Graph
+![JarYin's GitHub contributions](https://github-contributions-chart.vercel.app/api/v1/JarYin)
 
 ### ✨ Keep Coding & Stay Curious!
