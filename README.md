@@ -34,8 +34,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JarYin&bg_color=1A1B27&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
+### 🟩 GitHub Contribution Chart
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://ghchart.rshah.org/36bcf7/JarYin" alt="JarYin's GitHub Contribution Chart" />
 </p>
 
 ### ✨ Keep Coding & Stay Curious!
