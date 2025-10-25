@@ -31,7 +31,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JarYin&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JarYin&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JarYin&bg_color=1A1B27&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ### ✨ Keep Coding & Stay Curious!
