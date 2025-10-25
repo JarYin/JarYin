@@ -34,10 +34,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JarYin&bg_color=1A1B27&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
-### 🟩 GitHub Contribution Chart
+### 🟩 My GitHub Contribution Chart
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Every+Green+Square+Tells+a+Story;Code%2C+Commit%2C+Repeat!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/36bcf7/JarYin" alt="JarYin's GitHub Contribution Chart" />
+</p>
+
+<p align="center">
+  <sub><i>Each green block represents my consistency and passion for building things 💚</i></sub>
 </p>
 
 ### ✨ Keep Coding & Stay Curious!
