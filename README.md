@@ -37,12 +37,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JarYin&theme=radical" alt="GitHub Streak" />
 </p>
 ---
-## 🧑‍🤝‍🧑 Contributors
+### 📈 Contribution Graph
 
-Thanks to all the wonderful people who contributed to this project 💖
-
-<a href="https://github.com/JarYin/ModularERP/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=JarYin/ModularERP" />
-</a>
+![JarYin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JarYin&bg_color=0d1117&color=36bcf7&line=00e676&point=ffffff&area=true&hide_border=true)
 
 ### ✨ Keep Coding & Stay Curious!
