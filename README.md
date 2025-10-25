@@ -41,8 +41,8 @@
 
 Thanks to all the wonderful people who contributed to this project 💖
 
-<a href="https://github.com/JarYin/portfolio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=JarYin/portfolio" />
+<a href="https://github.com/JarYin/ModularERP/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=JarYin/ModularERP" />
 </a>
 
 ### ✨ Keep Coding & Stay Curious!
