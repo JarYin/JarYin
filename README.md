@@ -37,8 +37,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JarYin&theme=radical" alt="GitHub Streak" />
 </p>
 
-<a href="https://github.com/JarYin/MyCoolProject/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=JarYin/MyCoolProject" />
+## 🧑‍🤝‍🧑 Contributors
+
+Thanks to all the wonderful people who contributed to this project 💖
+
+<a href="https://github.com/JarYin/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=JarYin" />
 </a>
 
 ---
